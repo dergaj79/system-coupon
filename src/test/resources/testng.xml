@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Coupon System">
+    <test name="Sanity">
+        <classes>
+            <class name="com.testng.hsenid.MyConcatenatorTest"/>
+            <class name="com.testpack.testCo"/>
+            <class name="com.added.functions.DBConnectorTest"/>
+
+        </classes>
+    </test>
+</suite>
